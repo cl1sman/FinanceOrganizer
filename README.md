@@ -1,1 +1,1 @@
-# finance_organizer
+# Finance organizer
